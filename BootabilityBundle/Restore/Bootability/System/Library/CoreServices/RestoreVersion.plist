@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RestoreBuildGroup</key>
+	<string>0</string>
+	<key>RestoreLongVersion</key>
+	<string>23.4.60.0.0,0</string>
+	<key>RestoreVersion</key>
+	<string>23.4.60.0.0</string>
+</dict>
+</plist>
